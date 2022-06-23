@@ -1,1 +1,3 @@
 https://docs.oracle.com/javase/tutorial/uiswing/examples/components/index.html
+django 簡易ログイン
+https://kanda-it-school-kensyu.com/python-django-contents/pdc_ch07/pdc_0704/
